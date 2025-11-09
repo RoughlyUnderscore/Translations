@@ -13,7 +13,7 @@
 
 Вольная интерпретация фразы "не надо терпеть эту боль в груди".
 
-> (1) Everything feels intertwined, cash, alcohol and smoke
+> (1) Everything feels intertwined, cash, alcohol and smoke<br>
 > (4) My inside is solely void but still, I can't let go
 
 Вольные интерпретации соответственно строк "В трубку свёрнута наличка, дым и алкоголь" и "Как же вышло, что внутри я полностью пустой?" - попытка предсказать мысли, которые так или иначе в тексте, по моему мнению, подразумевались.
