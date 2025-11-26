@@ -46,6 +46,7 @@
 
 #### Sushi Soucy
 - [ ] Перевод песни "I Deserve To Bleed"
+- [ ] Перевод песни "Almost Perfect"
 
 #### Penelope Scott
 - [ ] Полный перевод альбома "Public Void"
