@@ -33,10 +33,16 @@
 - [ ] Полный перевод альбома "Противоядие"
 - [ ] Перевод песни "Вечно 17"
 
+#### ПОЛМАТЕРИ (плм)
+- [ ] Перевод песни "псы попадут в рай"
+
 ### ENG -> RUS
 
 #### Paris Paloma
-[ ] Перевод песни "Labour"
+- [ ] Перевод песни "Labour"
+
+#### Olivia Rodrigo
+- [ ] Перевод песни "brutal"
 
 #### Annabelle Dinda
 - [ ] Перевод песни "The Hand"
@@ -45,7 +51,7 @@
 - [ ] Полный перевод альбома "Be The Cowboy"
 
 #### Sushi Soucy
-- [ ] Перевод песни "I Deserve To Bleed"
+- [x] Перевод песни "I Deserve To Bleed"
 - [ ] Перевод песни "Almost Perfect"
 
 #### Penelope Scott
