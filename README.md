@@ -49,6 +49,7 @@
 
 #### Mitski
 - [ ] Полный перевод альбома "Be The Cowboy"
+- [ ] Полный перевод альбома "Puberty 2"
 
 #### Sushi Soucy
 - [x] Перевод песни "I Deserve To Bleed"
